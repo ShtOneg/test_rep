@@ -5,4 +5,4 @@
 * #### requests 
 * #### pyTelegramBotAPI
 ## Об авторе: Автор - Shtoneg
-![](https://sun1-99.userapi.com/impg/a6U8ONNRFtQ0oiC89IUB3f6g3rSn0uXeojC_Rw/ZZkZG_TlaEY.jpg?size=1536x1024&quality=96&sign=daabfb623381f358253d79d1ce63ee46&type=album)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanime-characters-fight.fandom.com%2Fru%2Fwiki%2F%25D0%259A%25D0%25B8%25D1%2591%25D1%2582%25D0%25B0%25D0%25BA%25D0%25B0_%25D0%2590%25D1%258F%25D0%25BD%25D0%25BE%25D0%25BA%25D0%25BE%25D0%25B4%25D0%25B6%25D0%25B8&psig=AOvVaw1wN65Oxzf6kzlR9C4RQVuX&ust=1680189258896000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDeiPG2gf4CFQAAAAAdAAAAABAE)
